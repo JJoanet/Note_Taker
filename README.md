@@ -34,4 +34,4 @@ Matt Reisdorf, Tom Siemion, Zach Duty.
 N/A
 
 ## Screenshot
-![Screenshot](./assets/Screenshot.png)
+![Screenshot](./assets/Screenshot.PNG)
